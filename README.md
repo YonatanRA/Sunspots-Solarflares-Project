@@ -1,12 +1,10 @@
 ![Sun Thougts](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/sol.jpg)
 
-# Guided Project: Web Data Pipeline
+# Sunspots-Solarflares-Project
 
 ## Overview
 
 The goal of this project is for you to practice what you have learned in the Intermediate Python and Data Engineering chapter of this program. For this project, you will start with a data set of your choice. You will need to import it, use your newly-acquired skills to build a data pipeline that processes the data and produces a result. You should demonstrate your proficiency with the tools we covered (functions, list comprehensions, string operations, and error handling) in your pipeline.
-
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
 
 ---
 
