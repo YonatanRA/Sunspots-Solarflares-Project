@@ -10,7 +10,7 @@ The goal of this project is to find out the correlation between the sunspots and
 
 ## Data
 
-The flares dataset is from * [flares Dataset](https://www.kaggle.com/heliodata/instruments-solarflares) thanks to [Arxiv](https://arxiv.org/abs/1703.04412)
+The flares dataset is from [Kaggle](https://www.kaggle.com/heliodata/instruments-solarflares), thanks to [Arxiv](https://arxiv.org/abs/1703.04412)
 
 
 ## Necessary Deliverables
