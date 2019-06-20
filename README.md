@@ -53,7 +53,7 @@ Pearson correlation between both monthly averages is 0.5
 
 Pearson correlation between spot monthly average and flares monthly maximum is 0.35
 
-It seems there is no linear correlation between both variables, except in the monthly averages.
+It seems there is no linear correlation between both variables, except in the monthly averages ([reference](http://adsabs.harvard.edu/abs/2004AAS...205.1002S)).
 
 
 ![Spearman](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/correlation%20Spearman.png)
