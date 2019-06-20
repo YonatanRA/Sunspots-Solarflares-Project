@@ -18,6 +18,23 @@ The flares dataset is from [Kaggle](https://www.kaggle.com/heliodata/instruments
 For this project I build a pipeline with all functions to make the statatistics, plots and the report. Just executing the file main.py or main.ipynb all work is done.
 
 
-## 
+## Results
+
+The distribution of solar flares in time is shown in the next plot:
+![Solar Flares](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/barplot_flares.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
