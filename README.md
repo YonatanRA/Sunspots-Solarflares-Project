@@ -37,13 +37,15 @@ The proportion of both flares and spots are as follow:
 ![dist spots](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/distplot_spots.png)
 
 
-Both distributions look like a Poisson Distribution. That makes sense, after all both phenomena are rare events.
+Both distributions look like a Poisson Distribution. That makes sense, after all both phenomena are "rare" events.
 The next plot shows the flares classification. There is no data about A-class flares:
 
 ![Flare classes](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/binning_class.png)
 
 
+With this analysis, I've tried to find the correlation between solar flares and sunspots. For that I use Pearson, Spearman and Kendall correlations to look for linear and non-linear correlation. First, Pearson correlation:
 
+![Pearson](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/correlation%20Pearson.png)
 
 
 
