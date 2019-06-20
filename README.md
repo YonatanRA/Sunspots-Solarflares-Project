@@ -47,5 +47,20 @@ With this analysis, I've tried to find the correlation between solar flares and 
 
 ![Pearson](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/correlation%20Pearson.png)
 
+Pearson correlation between the flares number and spot number is 0.32
+Pearson correlation between both monthly averages is 0.5
+Pearson correlation between spot monthly average and flares monthly maximum is 0.35
+It seems there is no linear correlation between both variables, except in the monthly averages.
+
+
+![Spearman](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/correlation%20Spearman.png)
+
+Spearman correlation between the flares number and spot number is 0.38
+Spearman correlation between both monthly averages is 0.75
+Spaerman correlation between spot monthly average and flares monthly maximum is 0.71
+
+
+
+
 
 
