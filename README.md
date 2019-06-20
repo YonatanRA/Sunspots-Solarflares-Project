@@ -62,7 +62,21 @@ Spearman correlation between the flares number and spot number is 0.38
 
 Spearman correlation between both monthly averages is 0.75
 
-Spaerman correlation between spot monthly average and flares monthly maximum is 0.71
+Spearman correlation between spot monthly average and flares monthly maximum is 0.71
+
+In this case there is a strong non-linear correlation between the monthly averages and the spot monthly average with flares monthly maximum. Now Kendall correlation:
+
+![Kendall](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/correlation%20Kendall.png)
+
+Kendall correlation between the flares number and spot number is 0.27
+
+Kendall correlation between both monthly averages is 0.56
+
+Kendall correlation between spot monthly average and flares monthly maximum is 0.52
+
+With all this data, effectively there is some kind of correlation between solar flares and sunspots, and therefore between both and coronal mass ejections (CME), which can be cause of serious damage in technological fields.
+For causality research would be neccesary more analysis with mora data, as the sunspots size or bigger temporal range.
+
 
 
 
