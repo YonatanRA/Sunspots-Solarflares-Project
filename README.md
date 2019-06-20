@@ -29,11 +29,12 @@ The distribution of sunspots is:
 
 ![Sunspots](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/barplot_spots.png)
 
-The data for this project is from just one solar cycle, with its maximum in 2013.
+The data for this project is from just one solar cycle, with its maximum in 2013, so is needed more info. It is not clear, but that plots look like a Normal Distribution in time.
+The proportion of both flares and spots are as follow:
 
+![dist flares](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/distplot_flares.png)
 
-
-
+![dist spots](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/distplot_spots.png)
 
 
 
