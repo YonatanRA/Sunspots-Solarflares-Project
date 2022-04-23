@@ -1,4 +1,4 @@
-![Sun Thoughts](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/sol.jpg)
+![Sun Thoughts](https://github.com/YonatanRA/Sunspots-Solarflares-Project/blob/master/images/sol.jpg)
 
 # Sunspots-Solarflares-Project
 
